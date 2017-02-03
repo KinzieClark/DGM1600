@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/changeColor.unity
+- path: Assets/Move rotate color change.unity
   isLoaded: 1
   isActive: 1

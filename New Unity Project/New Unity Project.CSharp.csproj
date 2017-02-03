@@ -68,9 +68,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\DGM1600\New Unity Project\Assets\Syntax.cs">
-      <Link>Assets\Syntax.cs</Link>
-    </Compile>
+    <Compile Include="Assets\MathOperators.cs" />
+    <Compile Include="Assets\Syntax.cs" />
     <Compile Include="Assets\changeColor.cs" />
     <Compile Include="Assets\move.cs" />
     <Compile Include="Assets\rotate.cs" />
